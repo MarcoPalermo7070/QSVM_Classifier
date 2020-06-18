@@ -40,3 +40,5 @@ All the people mentioned above played a really important role, but any error or 
 ## Full Dissertation:
 
 https://drive.google.com/file/d/1qvp37FblkcwAI70ww3dX4QUv7fyS-7Uh/view
+
+![](https://techcrunch.com/wp-content/uploads/2019/09/38239092692_922db65763_o1.jpg?w=730&crop=1)
