@@ -1,10 +1,13 @@
 ![](https://i.ibb.co/3vRQs7T/Screenshot-2020-06-18-at-12-55-19.png)
 
-Marco Palermo
+![](https://i.ibb.co/6gF1xhB/Screenshot-2020-06-18-at-13-02-21.png)
 
-October 2019
 
-Abstract:
+
+
+
+
+## Abstract:
 
 This research tackles the topic of _Quantum Machine Learning_, the application of quantum devices to the field of Computer Science that allows computers to learn from data, without being explicitly programmed. I have decided to investigate this sector because I believe quantum technology will be game-changing in the near future, so that keeping up with it is crucial for any data scientist. The goal of this work is to understand how Quantum Computing can help carry out Machine Learning techniques, by using a classical-quantum hybrid model to speed-up computations. This paper, divided in four section, starts by giving a general introduction on the theory behind the Quantum Computing technology. Then it describes the state of the art of the quantum hardware and software, providing examples of the latest improvements in both fields.
 
@@ -12,7 +15,11 @@ Finally, in the last section of the thesis, I deliver my own implementation of a
 
 The algorithm obtains an accuracy that is lower than modern classifiers used on mainstream computers. This is because the code provided by IBM only supports data with at most three features, so that I had to reduce the dimensionality of the datasets before feeding it to the QSVM. Taking into account this limitation, the classifier achieved very good result on the datasets, but hopefully with the introduction of more powerful quantum devices in the upcoming years, there will be a tremendous spike in the performance of the algorithm.
 
-Acknowledgments:
+
+
+
+
+## Acknowledgments:
 
 I would like to express my gratitude to the three amazing mentors who helped me with this work, I dedicate my thesis to them, with great respect and appreciation.
 
