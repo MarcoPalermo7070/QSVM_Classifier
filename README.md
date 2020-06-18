@@ -32,3 +32,11 @@ Finally, I would like to express my deepest thanks to Professor Pierpaolo Martur
 All the people mentioned above played a really important role, but any error or inaccuracy is to be attributed to me only.
 
 ![](https://i.ibb.co/wzL9nvP/Screenshot-2020-06-18-at-12-58-41.png)
+
+
+
+
+
+## Full Dissertation:
+
+https://drive.google.com/file/d/1qvp37FblkcwAI70ww3dX4QUv7fyS-7Uh/view
